@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 6,
-  "generated_at": "2026-10-25T02:23:01Z",
+  "version": 8,
+  "generated_at": "2026-10-25T02:31:43Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -222,9 +222,9 @@
       },
       "product_id": "pack_kids_1",
       "free": false,
-      "version": 1,
+      "version": 2,
       "stories": 19,
-      "bytes": 12020630,
+      "bytes": 44375206,
       "audience": "kids",
       "languages": [
         "cs",
@@ -252,10 +252,10 @@
       "parts": [
         {
           "part": "a",
-          "release": "pack-kids-1-v1",
+          "release": "pack-kids-1-v2",
           "asset": "kids-1-a.zip",
-          "bytes": 12020630,
-          "sha256": "f7fb1230000216bc9a587ea9749d96427e0ab27c4eb687e58f2b6c8c48243d79",
+          "bytes": 44375206,
+          "sha256": "e66ef041c99eeafe20d81f4cdb90558a858cd1ae911f6ffea402e66ab527913a",
           "stories": 19
         }
       ]
@@ -281,9 +281,9 @@
       },
       "product_id": "pack_superhero_1",
       "free": false,
-      "version": 1,
+      "version": 2,
       "stories": 38,
-      "bytes": 27339279,
+      "bytes": 92979887,
       "audience": "kids",
       "languages": [
         "cs",
@@ -311,18 +311,18 @@
       "parts": [
         {
           "part": "a",
-          "release": "pack-superhero-1-v1",
+          "release": "pack-superhero-1-v2",
           "asset": "superhero-1-a.zip",
-          "bytes": 17193725,
-          "sha256": "c9d5b5b36c9c08f48e9f2a33f4678bec09a044976f36db5c632ac27c46bceac4",
+          "bytes": 62062602,
+          "sha256": "a07a207ef26332132d6a3125e0d85e4d0dcf2a2e0c35475aa82c9734d3405c85",
           "stories": 25
         },
         {
           "part": "b",
-          "release": "pack-superhero-1-v1",
+          "release": "pack-superhero-1-v2",
           "asset": "superhero-1-b.zip",
-          "bytes": 10145554,
-          "sha256": "0c67449856ff2a94183f0aa20aec404f0de7ca6c900a0c1fdf846989b84c75b6",
+          "bytes": 30917285,
+          "sha256": "686f1789e5060d7fc491d7458eef68f3b00c9caa3187160e1ddb8d8601a99111",
           "stories": 13
         }
       ]
