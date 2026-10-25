@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 8,
-  "generated_at": "2026-10-25T02:31:43Z",
+  "version": 10,
+  "generated_at": "2026-10-25T03:51:04Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -422,7 +422,40 @@
       "covers": "all"
     }
   ],
-  "gamebooks": [],
+  "gamebooks": [
+    {
+      "id": "sara",
+      "product_id": "",
+      "kit_product_id": "",
+      "type": "kids",
+      "title": "Sára a černá koruna",
+      "title_i18n": {
+        "en": "Sara and the Black Crown"
+      },
+      "audience": "kids",
+      "languages": [
+        "cs"
+      ],
+      "cover": "covers/cp_23b9c3ab1fc9.webp",
+      "free": true,
+      "status": "ready",
+      "version": 1,
+      "nodes": 10,
+      "endings": 2,
+      "bytes": 13924390,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-sara-v1",
+          "asset": "gamebook-sara.zip",
+          "bytes": 13924390,
+          "sha256": "a05934f865f8b2f84041713e984565bbfe28bbd3fdfda97d557530f12bde57e7",
+          "stories": 10
+        }
+      ]
+    }
+  ],
   "stories": [
     {
       "id": "cp_a85cf504dcfd",
