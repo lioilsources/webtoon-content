@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 2,
-  "generated_at": "2026-10-24T17:56:02Z",
+  "version": 4,
+  "generated_at": "2026-10-24T23:57:43Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -88,9 +88,9 @@
       },
       "product_id": "pack_harlequin_1",
       "free": false,
-      "version": 1,
+      "version": 2,
       "stories": 50,
-      "bytes": 182545937,
+      "bytes": 182559574,
       "audience": "adult",
       "languages": [
         "cs",
@@ -118,18 +118,18 @@
       "parts": [
         {
           "part": "a",
-          "release": "pack-harlequin-1-v1",
+          "release": "pack-harlequin-1-v2",
           "asset": "harlequin-1-a.zip",
-          "bytes": 84986522,
-          "sha256": "b3a399c3df953c1ad03a30a92561ae9b38d32af133a41538e1adc69ce5de0f61",
+          "bytes": 84993671,
+          "sha256": "fc024606b4b311c3945708f0adf4ac5b59969e99618e8d22112596f44edd6640",
           "stories": 25
         },
         {
           "part": "b",
-          "release": "pack-harlequin-1-v1",
+          "release": "pack-harlequin-1-v2",
           "asset": "harlequin-1-b.zip",
-          "bytes": 97559415,
-          "sha256": "21206c4600a59ff7e69140935c477cfef8d4ed25f55dc6d54d32f5c4a4b0034f",
+          "bytes": 97565903,
+          "sha256": "541c727202ae750644a1781e40ff86da52f4bb599d13847800c499a346437419",
           "stories": 25
         }
       ]
@@ -155,9 +155,9 @@
       },
       "product_id": "pack_harlequin_2",
       "free": false,
-      "version": 1,
+      "version": 2,
       "stories": 50,
-      "bytes": 163713236,
+      "bytes": 163726152,
       "audience": "adult",
       "languages": [
         "cs",
@@ -185,18 +185,18 @@
       "parts": [
         {
           "part": "a",
-          "release": "pack-harlequin-2-v1",
+          "release": "pack-harlequin-2-v2",
           "asset": "harlequin-2-a.zip",
-          "bytes": 83783221,
-          "sha256": "d92d5568e050f804d9ea2d909c468daa6fa655a7a58a2dd87f5d4d4908d059fa",
+          "bytes": 83789630,
+          "sha256": "89d7466c576257fc31e129c861205c4429f00dfa165e88f7415182f0b1e92e34",
           "stories": 25
         },
         {
           "part": "b",
-          "release": "pack-harlequin-2-v1",
+          "release": "pack-harlequin-2-v2",
           "asset": "harlequin-2-b.zip",
-          "bytes": 79930015,
-          "sha256": "a1fe8ca5a6a509c0124f531444ff2f7aaa262f53b03c34a9e9ff0c420684769b",
+          "bytes": 79936522,
+          "sha256": "d85c3656c33b6971ba3627a31e827697c0ece47edc09a627d10e71546001cf09",
           "stories": 25
         }
       ]
