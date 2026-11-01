@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 10,
-  "generated_at": "2026-10-25T03:51:04Z",
+  "version": 11,
+  "generated_at": "2026-11-01T13:00:12Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -452,6 +452,69 @@
           "bytes": 13924390,
           "sha256": "a05934f865f8b2f84041713e984565bbfe28bbd3fdfda97d557530f12bde57e7",
           "stories": 10
+        }
+      ]
+    },
+    {
+      "id": "mlceni",
+      "product_id": "",
+      "kit_product_id": "",
+      "type": "drama",
+      "title": "Učit se mlčet",
+      "title_i18n": {
+        "en": "Learning to Be Silent"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs"
+      ],
+      "cover": "covers/cp_ff95277954de.webp",
+      "free": true,
+      "status": "ready",
+      "version": 1,
+      "nodes": 29,
+      "node_ids": [
+        "o1a",
+        "o1b",
+        "o1c",
+        "o1d",
+        "o1x",
+        "o2a",
+        "o2b",
+        "o2c",
+        "o2x",
+        "o3a",
+        "o3b",
+        "o3c",
+        "o4a",
+        "o4b",
+        "o4c",
+        "o4x",
+        "o5a",
+        "o5b",
+        "o5c",
+        "o5d",
+        "o5x",
+        "o6a",
+        "o6b",
+        "o6x",
+        "o6c",
+        "o6d",
+        "o6e",
+        "o6f",
+        "o6g"
+      ],
+      "endings": 2,
+      "bytes": 38694641,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-mlceni-v1",
+          "asset": "gamebook-mlceni.zip",
+          "bytes": 38694641,
+          "sha256": "97f69b2e948670bc708bdde69001639e382c365b8ab5351ff70833d4763d59d2",
+          "stories": 29
         }
       ]
     }
