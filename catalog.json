@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 11,
-  "generated_at": "2026-11-01T13:00:12Z",
+  "version": 12,
+  "generated_at": "2026-11-03T03:44:35Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -515,6 +515,66 @@
           "bytes": 38694641,
           "sha256": "97f69b2e948670bc708bdde69001639e382c365b8ab5351ff70833d4763d59d2",
           "stories": 29
+        }
+      ]
+    },
+    {
+      "id": "kovovenebe",
+      "product_id": "",
+      "kit_product_id": "",
+      "type": "drama",
+      "title": "Kovové nebe nad námi",
+      "title_i18n": {
+        "de": "Metallhimmel über uns",
+        "en": "Metal Sky Above Us",
+        "fr": "Ciel de métal au-dessus de nous",
+        "it": "Cielo di metallo sopra di noi",
+        "ja": "頭上の鋼鉄の空",
+        "ko": "우리 위의 금속 하늘",
+        "pl": "Metalowe niebo nad nami",
+        "pt-BR": "Céu de metal sobre nós",
+        "ru": "Металлическое небо над нами",
+        "uk": "Металеве небо над нами",
+        "vi": "Bầu trời kim loại trên đầu"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_9cd5c1cc84c7.webp",
+      "free": true,
+      "status": "ready",
+      "version": 1,
+      "nodes": 5,
+      "node_ids": [
+        "d1",
+        "d2",
+        "d3",
+        "d4",
+        "d5"
+      ],
+      "endings": 1,
+      "bytes": 19576336,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-kovovenebe-v1",
+          "asset": "gamebook-kovovenebe.zip",
+          "bytes": 19576336,
+          "sha256": "e4b73e43f8c009bb65c4ed978407e622165bb777be2eb91340ec2b21cf5f748b",
+          "stories": 5
         }
       ]
     }
