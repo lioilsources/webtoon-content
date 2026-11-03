@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 13,
-  "generated_at": "2026-11-03T04:21:11Z",
+  "version": 14,
+  "generated_at": "2026-11-03T08:56:41Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -552,10 +552,10 @@
         "ru",
         "uk"
       ],
-      "cover": "covers/cp_b6eb3716e1c1.webp",
+      "cover": "covers/cp_f464e3bed0ba.webp",
       "free": true,
       "status": "ready",
-      "version": 2,
+      "version": 3,
       "nodes": 5,
       "node_ids": [
         "d1",
@@ -565,15 +565,15 @@
         "d5"
       ],
       "endings": 1,
-      "bytes": 59157721,
+      "bytes": 60793093,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-kovovenebe-v2",
+          "release": "gamebook-kovovenebe-v3",
           "asset": "gamebook-kovovenebe.zip",
-          "bytes": 59157721,
-          "sha256": "a40917e1b63962bc7c2c860526149486c12e2bde555e2317e847f656c484168b",
+          "bytes": 60793093,
+          "sha256": "384385fad7cfa534bd13ba8fdd8134483623d289b31311e9e754929be4bea209",
           "stories": 5
         }
       ]
