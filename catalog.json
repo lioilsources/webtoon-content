@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 19,
-  "generated_at": "2026-11-07T11:54:19Z",
+  "version": 26,
+  "generated_at": "2026-11-07T14:24:41Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -425,8 +425,8 @@
   "gamebooks": [
     {
       "id": "sara",
-      "product_id": "gamebook_sara",
-      "kit_product_id": "kit_sara",
+      "product_id": "",
+      "kit_product_id": "",
       "type": "kids",
       "title": "Sára a černá koruna",
       "title_i18n": {
@@ -458,7 +458,7 @@
         "uk"
       ],
       "cover": "covers/cp_23b9c3ab1fc9.webp",
-      "free": false,
+      "free": true,
       "status": "ready",
       "version": 2,
       "nodes": 10,
@@ -483,15 +483,15 @@
           "release": "gamebook-sara-v2",
           "asset": "gamebook-sara.zip",
           "bytes": 13629516,
-          "sha256": "daff4bab5fd4198e152138370a3ee15f7256f6b0905e2986f73366b3aa38c03a",
+          "sha256": "7886d01b1e3c42735f3ea3335f9b42c8c7fc9012056133a2c9836dad879fd7be",
           "stories": 10
         }
       ]
     },
     {
       "id": "mlceni",
-      "product_id": "gamebook_mlceni",
-      "kit_product_id": "kit_mlceni",
+      "product_id": "",
+      "kit_product_id": "",
       "type": "drama",
       "title": "Učit se mlčet",
       "title_i18n": {
@@ -523,7 +523,7 @@
         "uk"
       ],
       "cover": "covers/cp_ff95277954de.webp",
-      "free": false,
+      "free": true,
       "status": "ready",
       "version": 2,
       "nodes": 29,
@@ -559,15 +559,15 @@
         "o6g"
       ],
       "endings": 2,
-      "bytes": 38770680,
+      "bytes": 38770679,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
           "release": "gamebook-mlceni-v2",
           "asset": "gamebook-mlceni.zip",
-          "bytes": 38770680,
-          "sha256": "24be8e760a88b5e5af9fa922eeb6c3b623cd2989d99309d6f4d52871956df2c6",
+          "bytes": 38770679,
+          "sha256": "22c580ac7e169f74f5152e5e34b32b377de4c0235db489d84af2cb184126811b",
           "stories": 29
         }
       ]
@@ -634,8 +634,8 @@
     },
     {
       "id": "louka",
-      "product_id": "gamebook_louka",
-      "kit_product_id": "kit_louka",
+      "product_id": "",
+      "kit_product_id": "",
       "type": "drama",
       "title": "Rozkvetlá louka, která zšedla",
       "title_i18n": {
@@ -667,7 +667,7 @@
         "uk"
       ],
       "cover": "covers/cp_63868e3f4c2e.webp",
-      "free": false,
+      "free": true,
       "status": "ready",
       "version": 2,
       "nodes": 5,
@@ -687,8 +687,120 @@
           "release": "gamebook-louka-v2",
           "asset": "gamebook-louka.zip",
           "bytes": 33803122,
-          "sha256": "7f5afb800daad0509694eaf4a52bbeedd2a697bde4b70ca199da134925917f7b",
+          "sha256": "1df8ef0549a366cba80895ab2a84ef46511418db1690a22dc390bba4930bccdd",
           "stories": 5
+        }
+      ]
+    },
+    {
+      "id": "kulovyblesk",
+      "product_id": "",
+      "kit_product_id": "",
+      "type": "drama",
+      "title": "Kulový blesk v neonovém zákopu",
+      "title_i18n": {
+        "de": "Kugelblitz im Neonschützengraben",
+        "en": "Ball Lightning in the Neon Trench",
+        "fr": "Foudre en boule dans la tranchée au néon",
+        "it": "Fulmine globulare nella trincea al neon",
+        "ja": "ネオンの塹壕に球電",
+        "ko": "네온 참호 속의 구전",
+        "pl": "Piorun kulisty w neonowym okopie",
+        "pt-BR": "Raio globular na trincheira de neon",
+        "ru": "Шаровая молния в неоновом окопе",
+        "uk": "Кульова блискавка в неоновому окопі",
+        "vi": "Sét hòn trong chiến hào neon"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_6f4a5631c06c.webp",
+      "free": true,
+      "status": "ready",
+      "version": 1,
+      "nodes": 1,
+      "node_ids": [
+        "s1"
+      ],
+      "endings": 1,
+      "bytes": 8515680,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-kulovyblesk-v1",
+          "asset": "gamebook-kulovyblesk.zip",
+          "bytes": 8515680,
+          "sha256": "fe689f7145a704f305752b105b713d72e26f6969fa57f0bee47907889c4f1217",
+          "stories": 1
+        }
+      ]
+    },
+    {
+      "id": "kulovyblesktus",
+      "product_id": "",
+      "kit_product_id": "",
+      "type": "drama",
+      "title": "Kulový blesk v neonovém zákopu (tuš)",
+      "title_i18n": {
+        "de": "Kugelblitz im Neonschützengraben (Tusche)",
+        "en": "Ball Lightning in the Neon Trench (ink)",
+        "fr": "Foudre en boule dans la tranchée au néon (encre)",
+        "it": "Fulmine globulare nella trincea al neon (inchiostro)",
+        "ja": "ネオンの塹壕に球電（墨）",
+        "ko": "네온 참호 속의 구전 (수묵)",
+        "pl": "Piorun kulisty w neonowym okopie (tusz)",
+        "pt-BR": "Raio globular na trincheira de neon (nanquim)",
+        "ru": "Шаровая молния в неоновом окопе (тушь)",
+        "uk": "Кульова блискавка в неоновому окопі (туш)",
+        "vi": "Sét hòn trong chiến hào neon (mực tàu)"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_21279b5b7b1f.webp",
+      "free": true,
+      "status": "ready",
+      "version": 1,
+      "nodes": 1,
+      "node_ids": [
+        "s1"
+      ],
+      "endings": 1,
+      "bytes": 6791818,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-kulovyblesktus-v1",
+          "asset": "gamebook-kulovyblesktus.zip",
+          "bytes": 6791818,
+          "sha256": "b0650a95bf67364ac62a063e7d7233a34096b34f805a94da7bf9402a82a1a71c",
+          "stories": 1
         }
       ]
     }
