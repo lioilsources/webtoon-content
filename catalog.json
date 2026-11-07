@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 18,
-  "generated_at": "2026-11-07T11:38:15Z",
+  "version": 19,
+  "generated_at": "2026-11-07T11:54:19Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -634,26 +634,22 @@
     },
     {
       "id": "louka",
-      "product_id": "",
-      "kit_product_id": "",
+      "product_id": "gamebook_louka",
+      "kit_product_id": "kit_louka",
       "type": "drama",
       "title": "Rozkvetlá louka, která zšedla",
       "title_i18n": {
-        "de": "Die blühende Wiese",
-        "die grau wurde": "",
+        "de": "Die blühende Wiese, die grau wurde",
         "en": "The Blooming Meadow That Turned Grey",
         "fr": "La prairie en fleurs devenue grise",
         "it": "Il prato fiorito diventato grigio",
         "ja": "灰色になった花咲く草原",
         "ko": "잿빛이 된 꽃핀 들판",
-        "która poszarzała": "",
-        "pl": "Rozkwitła łąka",
+        "pl": "Rozkwitła łąka, która poszarzała",
         "pt-BR": "O prado florido que ficou cinza",
-        "ru": "Цветущий луг",
-        "uk": "Квітучий луг",
-        "vi": "Đồng cỏ nở hoa đã hóa xám",
-        "ставший серым": "",
-        "що посірів": ""
+        "ru": "Цветущий луг, ставший серым",
+        "uk": "Квітучий луг, що посірів",
+        "vi": "Đồng cỏ nở hoa đã hóa xám"
       },
       "audience": "adult",
       "languages": [
@@ -670,10 +666,10 @@
         "ru",
         "uk"
       ],
-      "cover": "covers/cp_14796c360e40.webp",
-      "free": true,
+      "cover": "covers/cp_63868e3f4c2e.webp",
+      "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 5,
       "node_ids": [
         "o1",
@@ -683,15 +679,15 @@
         "o5"
       ],
       "endings": 1,
-      "bytes": 33803129,
+      "bytes": 33803122,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-louka-v1",
+          "release": "gamebook-louka-v2",
           "asset": "gamebook-louka.zip",
-          "bytes": 33803129,
-          "sha256": "f63d9da487204f78027b3a14929d70d62b95eac93c88229bb90299288c772d4a",
+          "bytes": 33803122,
+          "sha256": "7f5afb800daad0509694eaf4a52bbeedd2a697bde4b70ca199da134925917f7b",
           "stories": 5
         }
       ]
