@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 15,
-  "generated_at": "2026-11-03T12:06:48Z",
+  "version": 18,
+  "generated_at": "2026-11-07T11:38:15Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -281,9 +281,9 @@
       },
       "product_id": "pack_superhero_1",
       "free": false,
-      "version": 2,
+      "version": 3,
       "stories": 38,
-      "bytes": 92979887,
+      "bytes": 92452901,
       "audience": "kids",
       "languages": [
         "cs",
@@ -311,18 +311,18 @@
       "parts": [
         {
           "part": "a",
-          "release": "pack-superhero-1-v2",
+          "release": "pack-superhero-1-v3",
           "asset": "superhero-1-a.zip",
-          "bytes": 62062602,
-          "sha256": "a07a207ef26332132d6a3125e0d85e4d0dcf2a2e0c35475aa82c9734d3405c85",
+          "bytes": 61535615,
+          "sha256": "feec50a6a923043c2a34a9f2c00a595be7ca85239a895a29ccb0085b95c27891",
           "stories": 25
         },
         {
           "part": "b",
-          "release": "pack-superhero-1-v2",
+          "release": "pack-superhero-1-v3",
           "asset": "superhero-1-b.zip",
-          "bytes": 30917285,
-          "sha256": "686f1789e5060d7fc491d7458eef68f3b00c9caa3187160e1ddb8d8601a99111",
+          "bytes": 30917286,
+          "sha256": "db846d1b895bbf5d1c9deb0a947a34cabf3c711b992834e74491e248e66660bf",
           "stories": 13
         }
       ]
@@ -425,53 +425,107 @@
   "gamebooks": [
     {
       "id": "sara",
-      "product_id": "",
-      "kit_product_id": "",
+      "product_id": "gamebook_sara",
+      "kit_product_id": "kit_sara",
       "type": "kids",
       "title": "Sára a černá koruna",
       "title_i18n": {
-        "en": "Sara and the Black Crown"
+        "de": "Sara und die schwarze Krone",
+        "en": "Sara and the Black Crown",
+        "fr": "Sara et la couronne noire",
+        "it": "Sara e la corona nera",
+        "ja": "サラと くろい かんむり",
+        "ko": "사라와 검은 왕관",
+        "pl": "Sara i czarna korona",
+        "pt-BR": "Sara e a coroa negra",
+        "ru": "Сара и чёрная корона",
+        "uk": "Сара і чорна корона",
+        "vi": "Sara và chiếc vương miện đen"
       },
       "audience": "kids",
       "languages": [
-        "cs"
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
       ],
       "cover": "covers/cp_23b9c3ab1fc9.webp",
-      "free": true,
+      "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 10,
+      "node_ids": [
+        "n0",
+        "n1a",
+        "n1b",
+        "n2",
+        "n3a",
+        "n3b",
+        "n4",
+        "end_light",
+        "end_friends",
+        "end_cold"
+      ],
       "endings": 2,
-      "bytes": 13924390,
+      "bytes": 13629516,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-sara-v1",
+          "release": "gamebook-sara-v2",
           "asset": "gamebook-sara.zip",
-          "bytes": 13924390,
-          "sha256": "a05934f865f8b2f84041713e984565bbfe28bbd3fdfda97d557530f12bde57e7",
+          "bytes": 13629516,
+          "sha256": "daff4bab5fd4198e152138370a3ee15f7256f6b0905e2986f73366b3aa38c03a",
           "stories": 10
         }
       ]
     },
     {
       "id": "mlceni",
-      "product_id": "",
-      "kit_product_id": "",
+      "product_id": "gamebook_mlceni",
+      "kit_product_id": "kit_mlceni",
       "type": "drama",
       "title": "Učit se mlčet",
       "title_i18n": {
-        "en": "Learning to Be Silent"
+        "de": "Schweigen lernen",
+        "en": "Learning to Be Silent",
+        "fr": "Apprendre à se taire",
+        "it": "Imparare a tacere",
+        "ja": "黙ることを学ぶ",
+        "ko": "침묵을 배우다",
+        "pl": "Nauczyć się milczeć",
+        "pt-BR": "Aprender a calar",
+        "ru": "Учиться молчать",
+        "uk": "Учитися мовчати",
+        "vi": "Học cách im lặng"
       },
       "audience": "adult",
       "languages": [
-        "cs"
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
       ],
       "cover": "covers/cp_ff95277954de.webp",
-      "free": true,
+      "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 29,
       "node_ids": [
         "o1a",
@@ -505,15 +559,15 @@
         "o6g"
       ],
       "endings": 2,
-      "bytes": 38694641,
+      "bytes": 38770680,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-mlceni-v1",
+          "release": "gamebook-mlceni-v2",
           "asset": "gamebook-mlceni.zip",
-          "bytes": 38694641,
-          "sha256": "97f69b2e948670bc708bdde69001639e382c365b8ab5351ff70833d4763d59d2",
+          "bytes": 38770680,
+          "sha256": "24be8e760a88b5e5af9fa922eeb6c3b623cd2989d99309d6f4d52871956df2c6",
           "stories": 29
         }
       ]
