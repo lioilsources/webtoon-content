@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 27,
-  "generated_at": "2026-11-08T02:46:21Z",
+  "version": 33,
+  "generated_at": "2026-11-08T14:40:30Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -729,6 +729,359 @@
           "bytes": 6791818,
           "sha256": "b0650a95bf67364ac62a063e7d7233a34096b34f805a94da7bf9402a82a1a71c",
           "stories": 1
+        }
+      ]
+    },
+    {
+      "id": "poslednislovo",
+      "product_id": "",
+      "kit_product_id": "",
+      "type": "drama",
+      "title": "Poslední slovo",
+      "title_i18n": {
+        "de": "Das letzte Wort",
+        "en": "The Last Word",
+        "fr": "Le dernier mot",
+        "it": "L'ultima parola",
+        "ja": "最後の一言",
+        "ko": "마지막 말",
+        "pl": "Ostatnie słowo",
+        "pt-BR": "A última palavra",
+        "ru": "Последнее слово",
+        "uk": "Останнє слово",
+        "vi": "Lời cuối cùng"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_4b8a89a0ab42.webp",
+      "free": true,
+      "status": "ready",
+      "version": 1,
+      "nodes": 5,
+      "node_ids": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "endings": 1,
+      "bytes": 11211978,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-poslednislovo-v1",
+          "asset": "gamebook-poslednislovo.zip",
+          "bytes": 11211978,
+          "sha256": "6d0ba1564e13dc4f8c3624fac3f3f126fc45a6315c1fdc42caf3197332fd3a9a",
+          "stories": 5
+        }
+      ]
+    },
+    {
+      "id": "gulasspagety",
+      "product_id": "",
+      "kit_product_id": "",
+      "type": "drama",
+      "title": "Guláš a špagety",
+      "title_i18n": {
+        "de": "Gulasch und Spaghetti",
+        "en": "Goulash and Spaghetti",
+        "fr": "Goulash et spaghetti",
+        "it": "Gulasch e spaghetti",
+        "ja": "グヤーシュとスパゲッティ",
+        "ko": "굴라시와 스파게티",
+        "pl": "Gulasz i spaghetti",
+        "pt-BR": "Gulache e espaguete",
+        "ru": "Гуляш и спагетти",
+        "uk": "Гуляш і спагеті",
+        "vi": "Goulash và spaghetti"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_b6dd674398f7.webp",
+      "free": true,
+      "status": "ready",
+      "version": 1,
+      "nodes": 1,
+      "node_ids": [
+        "s1"
+      ],
+      "endings": 1,
+      "bytes": 5809043,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-gulasspagety-v1",
+          "asset": "gamebook-gulasspagety.zip",
+          "bytes": 5809043,
+          "sha256": "69f7ea1851bf44748104cc319b54ddf92eb9f46d4130890d4c332c2b0e688451",
+          "stories": 1
+        }
+      ]
+    },
+    {
+      "id": "poslednislovopavilon",
+      "product_id": "",
+      "kit_product_id": "",
+      "type": "drama",
+      "title": "Poslední slovo (pavilon)",
+      "title_i18n": {
+        "de": "Das letzte Wort (Pavillon)",
+        "en": "The Last Word (Pavilion)",
+        "fr": "Le dernier mot (pavillon)",
+        "it": "L'ultima parola (padiglione)",
+        "ja": "最後のひと言（東屋）",
+        "ko": "마지막 한마디 (정자)",
+        "pl": "Ostatnie słowo (pawilon)",
+        "pt-BR": "A última palavra (pavilhão)",
+        "ru": "Последнее слово (павильон)",
+        "uk": "Останнє слово (павільйон)",
+        "vi": "Lời cuối cùng (đình)"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_f8f707bc4f54.webp",
+      "free": true,
+      "status": "ready",
+      "version": 1,
+      "nodes": 5,
+      "node_ids": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "endings": 1,
+      "bytes": 11622329,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-poslednislovopavilon-v1",
+          "asset": "gamebook-poslednislovopavilon.zip",
+          "bytes": 11622329,
+          "sha256": "ab52efcb4d002cadc95e7444459bf2e018f0c9bdda457fe6c1650ff6944a37ac",
+          "stories": 5
+        }
+      ]
+    },
+    {
+      "id": "uknedliku",
+      "product_id": "",
+      "kit_product_id": "",
+      "type": "drama",
+      "title": "U Knedlíku 2089",
+      "title_i18n": {
+        "de": "Zum Knödel 2089",
+        "en": "At the Dumpling 2089",
+        "fr": "À la Quenelle 2089",
+        "it": "Al Canederlo 2089",
+        "ja": "クネドリーキ亭 2089",
+        "ko": "크네들리키 2089",
+        "pl": "Pod Knedlem 2089",
+        "pt-BR": "No Bolinho 2089",
+        "ru": "У Кнедлика 2089",
+        "uk": "У Кнедлика 2089",
+        "vi": "Quán Bánh Bao 2089"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_bfa2c0e732c1.webp",
+      "free": true,
+      "status": "ready",
+      "version": 1,
+      "nodes": 3,
+      "node_ids": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "endings": 1,
+      "bytes": 15369280,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-uknedliku-v1",
+          "asset": "gamebook-uknedliku.zip",
+          "bytes": 15369280,
+          "sha256": "cf58423d534c96beabd516d6fcf697d7a9a32087d09699fa5c7e21902d1770a4",
+          "stories": 3
+        }
+      ]
+    },
+    {
+      "id": "gulasknedlik",
+      "product_id": "",
+      "kit_product_id": "",
+      "type": "drama",
+      "title": "Guláš s knedlíkem v neopunkové budoucnosti",
+      "title_i18n": {
+        "de": "Gulasch mit Knödeln in einer Neo-Punk-Zukunft",
+        "en": "Goulash and Dumplings in a Neo-Punk Future",
+        "fr": "Goulash et knödels dans un futur néo-punk",
+        "it": "Gulasch con canederli in un futuro neo-punk",
+        "ja": "ネオパンクな未来のグヤーシュとクネドリーキ",
+        "ko": "네오펑크 미래의 굴라시와 크네들리키",
+        "pl": "Gulasz z knedlikami w neopunkowej przyszłości",
+        "pt-BR": "Gulache com bolinhos num futuro neopunk",
+        "ru": "Гуляш с кнедликами в неопанковом будущем",
+        "uk": "Гуляш із кнедликами в неопанковому майбутньому",
+        "vi": "Goulash với bánh knedlík trong tương lai tân punk"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_fcd8fa6cf903.webp",
+      "free": true,
+      "status": "ready",
+      "version": 1,
+      "nodes": 6,
+      "node_ids": [
+        "o1",
+        "o2",
+        "o3",
+        "o4",
+        "o5",
+        "o6"
+      ],
+      "endings": 1,
+      "bytes": 26960592,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-gulasknedlik-v1",
+          "asset": "gamebook-gulasknedlik.zip",
+          "bytes": 26960592,
+          "sha256": "ad3b1a62d97b5b72ba835ea34e2734af2f12bb147b86cf02bcf803a714df7286",
+          "stories": 6
+        }
+      ]
+    },
+    {
+      "id": "knedlikvzakopu",
+      "product_id": "",
+      "kit_product_id": "",
+      "type": "drama",
+      "title": "S knedlíkem v zákopu",
+      "title_i18n": {
+        "de": "Mit Knödel im Schützengraben",
+        "en": "With a Dumpling in the Trench",
+        "fr": "Un knödel dans la tranchée",
+        "it": "Con il canederlo in trincea",
+        "ja": "塹壕にクネドリーキ",
+        "ko": "참호 속의 크네들리키",
+        "pl": "Z knedlem w okopie",
+        "pt-BR": "Com um bolinho na trincheira",
+        "ru": "С кнедликом в окопе",
+        "uk": "З кнедликом в окопі",
+        "vi": "Với bánh knedlík trong chiến hào"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_2a33abd4b906.webp",
+      "free": true,
+      "status": "ready",
+      "version": 1,
+      "nodes": 3,
+      "node_ids": [
+        "k1",
+        "k2",
+        "k3"
+      ],
+      "endings": 1,
+      "bytes": 5417252,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-knedlikvzakopu-v1",
+          "asset": "gamebook-knedlikvzakopu.zip",
+          "bytes": 5417252,
+          "sha256": "d719dd4b9208efa94df9aed008b5d73aef7960ad2689d901c378599aaed05c58",
+          "stories": 3
         }
       ]
     }
