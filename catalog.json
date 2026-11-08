@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 26,
-  "generated_at": "2026-11-07T14:24:41Z",
+  "version": 27,
+  "generated_at": "2026-11-08T02:46:21Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -329,78 +329,6 @@
     }
   ],
   "bundles": [
-    {
-      "id": "bundle_kids",
-      "product_id": "bundle_kids",
-      "price_tier": "bundle_type",
-      "title_i18n": {
-        "cs": "Vše pro děti",
-        "de": "Alles für Kinder",
-        "en": "All Kids stories",
-        "fr": "Tout pour enfants",
-        "it": "Tutto per bambini",
-        "ja": "キッズ全部",
-        "ko": "어린이 전체",
-        "pl": "Wszystko dla dzieci",
-        "pt-BR": "Tudo infantil",
-        "ru": "Всё для детей",
-        "uk": "Усе для дітей",
-        "vi": "Trọn bộ thiếu nhi"
-      },
-      "covers": {
-        "types": [
-          "kids"
-        ]
-      }
-    },
-    {
-      "id": "bundle_harlequin",
-      "product_id": "bundle_harlequin",
-      "price_tier": "bundle_type",
-      "title_i18n": {
-        "cs": "Všechna romantika",
-        "de": "Alle Romantik",
-        "en": "All Romance stories",
-        "fr": "Toute la romance",
-        "it": "Tutto romantico",
-        "ja": "ロマンス全部",
-        "ko": "로맨스 전체",
-        "pl": "Cały romans",
-        "pt-BR": "Todo o romance",
-        "ru": "Вся романтика",
-        "uk": "Уся романтика",
-        "vi": "Trọn bộ lãng mạn"
-      },
-      "covers": {
-        "types": [
-          "harlequin"
-        ]
-      }
-    },
-    {
-      "id": "bundle_superhero",
-      "product_id": "bundle_superhero",
-      "price_tier": "bundle_type",
-      "title_i18n": {
-        "cs": "Všichni superhrdinové",
-        "de": "Alle Superhelden",
-        "en": "All Superhero stories",
-        "fr": "Tous les super-héros",
-        "it": "Tutti i supereroi",
-        "ja": "ヒーロー全部",
-        "ko": "슈퍼히어로 전체",
-        "pl": "Wszyscy superbohaterowie",
-        "pt-BR": "Todos os super-heróis",
-        "ru": "Все супергерои",
-        "uk": "Усі супергерої",
-        "vi": "Trọn bộ siêu anh hùng"
-      },
-      "covers": {
-        "types": [
-          "superhero"
-        ]
-      }
-    },
     {
       "id": "bundle_all",
       "product_id": "bundle_all",
