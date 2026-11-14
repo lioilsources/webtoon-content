@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 42,
-  "generated_at": "2026-11-14T18:58:49Z",
+  "version": 48,
+  "generated_at": "2026-11-14T21:35:46Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -769,7 +769,7 @@
       "cover": "covers/cp_4b8a89a0ab42.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 5,
       "node_ids": [
         "s1",
@@ -779,15 +779,15 @@
         "s5"
       ],
       "endings": 1,
-      "bytes": 11211978,
+      "bytes": 11736967,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-poslednislovo-v1",
+          "release": "gamebook-poslednislovo-v2",
           "asset": "gamebook-poslednislovo.zip",
-          "bytes": 11211978,
-          "sha256": "6d0ba1564e13dc4f8c3624fac3f3f126fc45a6315c1fdc42caf3197332fd3a9a",
+          "bytes": 11736967,
+          "sha256": "64b5edc9705b82273a46e1c1f4724d7c001c2c3510b0462f22f44454c9816d3e",
           "stories": 5
         }
       ]
@@ -829,21 +829,21 @@
       "cover": "covers/cp_b6dd674398f7.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 1,
       "node_ids": [
         "s1"
       ],
       "endings": 1,
-      "bytes": 5809043,
+      "bytes": 7008225,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-gulasspagety-v1",
+          "release": "gamebook-gulasspagety-v2",
           "asset": "gamebook-gulasspagety.zip",
-          "bytes": 5809043,
-          "sha256": "69f7ea1851bf44748104cc319b54ddf92eb9f46d4130890d4c332c2b0e688451",
+          "bytes": 7008225,
+          "sha256": "0da7182f09c1d2c6181c924c399bb61e123d387ecf4faf0bc4b844ad92f55e23",
           "stories": 1
         }
       ]
@@ -885,7 +885,7 @@
       "cover": "covers/cp_f8f707bc4f54.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 5,
       "node_ids": [
         "s1",
@@ -895,15 +895,15 @@
         "s5"
       ],
       "endings": 1,
-      "bytes": 11622329,
+      "bytes": 14018965,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-poslednislovopavilon-v1",
+          "release": "gamebook-poslednislovopavilon-v2",
           "asset": "gamebook-poslednislovopavilon.zip",
-          "bytes": 11622329,
-          "sha256": "ab52efcb4d002cadc95e7444459bf2e018f0c9bdda457fe6c1650ff6944a37ac",
+          "bytes": 14018965,
+          "sha256": "10f8fc9dc46b519a03c2093b110b4c39806ddfdd40514e2d362f84d1a0534d0c",
           "stories": 5
         }
       ]
@@ -945,7 +945,7 @@
       "cover": "covers/cp_bfa2c0e732c1.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 3,
       "node_ids": [
         "s1",
@@ -953,15 +953,15 @@
         "s3"
       ],
       "endings": 1,
-      "bytes": 15369280,
+      "bytes": 13883908,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-uknedliku-v1",
+          "release": "gamebook-uknedliku-v2",
           "asset": "gamebook-uknedliku.zip",
-          "bytes": 15369280,
-          "sha256": "cf58423d534c96beabd516d6fcf697d7a9a32087d09699fa5c7e21902d1770a4",
+          "bytes": 13883908,
+          "sha256": "71ec8426684a9797164588acef6033b383c2e9d382193d82a975f4ce03ee78e3",
           "stories": 3
         }
       ]
@@ -1003,7 +1003,7 @@
       "cover": "covers/cp_fcd8fa6cf903.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 6,
       "node_ids": [
         "o1",
@@ -1014,15 +1014,15 @@
         "o6"
       ],
       "endings": 1,
-      "bytes": 26960592,
+      "bytes": 30001339,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-gulasknedlik-v1",
+          "release": "gamebook-gulasknedlik-v2",
           "asset": "gamebook-gulasknedlik.zip",
-          "bytes": 26960592,
-          "sha256": "ad3b1a62d97b5b72ba835ea34e2734af2f12bb147b86cf02bcf803a714df7286",
+          "bytes": 30001339,
+          "sha256": "62952dd9790991611cee5904fad1e41574d2ce3d61b41a6b2b96e01a78c65d02",
           "stories": 6
         }
       ]
@@ -1064,7 +1064,7 @@
       "cover": "covers/cp_2a33abd4b906.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 3,
       "node_ids": [
         "k1",
@@ -1072,15 +1072,15 @@
         "k3"
       ],
       "endings": 1,
-      "bytes": 5417252,
+      "bytes": 7000484,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-knedlikvzakopu-v1",
+          "release": "gamebook-knedlikvzakopu-v2",
           "asset": "gamebook-knedlikvzakopu.zip",
-          "bytes": 5417252,
-          "sha256": "d719dd4b9208efa94df9aed008b5d73aef7960ad2689d901c378599aaed05c58",
+          "bytes": 7000484,
+          "sha256": "569c454fa5e5beff81753d31d863c7fa6a687d9bca4960d5bf20fb5cca958c27",
           "stories": 3
         }
       ]
