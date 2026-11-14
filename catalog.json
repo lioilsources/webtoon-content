@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 33,
-  "generated_at": "2026-11-08T14:40:30Z",
+  "version": 42,
+  "generated_at": "2026-11-14T18:58:49Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -734,7 +734,7 @@
     },
     {
       "id": "poslednislovo",
-      "product_id": "",
+      "product_id": "gamebook_gulasspagety",
       "kit_product_id": "",
       "type": "drama",
       "title": "Poslední slovo",
@@ -767,7 +767,7 @@
         "uk"
       ],
       "cover": "covers/cp_4b8a89a0ab42.webp",
-      "free": true,
+      "free": false,
       "status": "ready",
       "version": 1,
       "nodes": 5,
@@ -794,7 +794,7 @@
     },
     {
       "id": "gulasspagety",
-      "product_id": "",
+      "product_id": "gamebook_gulasspagety",
       "kit_product_id": "",
       "type": "drama",
       "title": "Guláš a špagety",
@@ -827,7 +827,7 @@
         "uk"
       ],
       "cover": "covers/cp_b6dd674398f7.webp",
-      "free": true,
+      "free": false,
       "status": "ready",
       "version": 1,
       "nodes": 1,
@@ -850,7 +850,7 @@
     },
     {
       "id": "poslednislovopavilon",
-      "product_id": "",
+      "product_id": "gamebook_gulasspagety",
       "kit_product_id": "",
       "type": "drama",
       "title": "Poslední slovo (pavilon)",
@@ -883,7 +883,7 @@
         "uk"
       ],
       "cover": "covers/cp_f8f707bc4f54.webp",
-      "free": true,
+      "free": false,
       "status": "ready",
       "version": 1,
       "nodes": 5,
@@ -910,7 +910,7 @@
     },
     {
       "id": "uknedliku",
-      "product_id": "",
+      "product_id": "gamebook_gulasspagety",
       "kit_product_id": "",
       "type": "drama",
       "title": "U Knedlíku 2089",
@@ -943,7 +943,7 @@
         "uk"
       ],
       "cover": "covers/cp_bfa2c0e732c1.webp",
-      "free": true,
+      "free": false,
       "status": "ready",
       "version": 1,
       "nodes": 3,
@@ -968,7 +968,7 @@
     },
     {
       "id": "gulasknedlik",
-      "product_id": "",
+      "product_id": "gamebook_gulasspagety",
       "kit_product_id": "",
       "type": "drama",
       "title": "Guláš s knedlíkem v neopunkové budoucnosti",
@@ -1001,7 +1001,7 @@
         "uk"
       ],
       "cover": "covers/cp_fcd8fa6cf903.webp",
-      "free": true,
+      "free": false,
       "status": "ready",
       "version": 1,
       "nodes": 6,
@@ -1029,7 +1029,7 @@
     },
     {
       "id": "knedlikvzakopu",
-      "product_id": "",
+      "product_id": "gamebook_gulasspagety",
       "kit_product_id": "",
       "type": "drama",
       "title": "S knedlíkem v zákopu",
@@ -1062,7 +1062,7 @@
         "uk"
       ],
       "cover": "covers/cp_2a33abd4b906.webp",
-      "free": true,
+      "free": false,
       "status": "ready",
       "version": 1,
       "nodes": 3,
@@ -1082,6 +1082,481 @@
           "bytes": 5417252,
           "sha256": "d719dd4b9208efa94df9aed008b5d73aef7960ad2689d901c378599aaed05c58",
           "stories": 3
+        }
+      ]
+    },
+    {
+      "id": "archion_claude",
+      "product_id": "gamebook_archion",
+      "kit_product_id": "",
+      "type": "harlequin",
+      "title": "Archion: Hra o čtyřech ročních obdobích",
+      "title_i18n": {
+        "de": "Archion: Ein Spiel in vier Jahreszeiten",
+        "en": "Archion: A Play in Four Seasons",
+        "fr": "Archion : une pièce en quatre saisons",
+        "it": "Archion: un dramma in quattro stagioni",
+        "ja": "アルキオン：四季の戯曲",
+        "ko": "아르키온: 사계절의 연극",
+        "pl": "Archion: Sztuka o czterech porach roku",
+        "pt-BR": "Archion: Uma peça em quatro estações",
+        "ru": "Архион: Пьеса о четырёх временах года",
+        "uk": "Архіон: П'єса про чотири пори року",
+        "vi": "Archion: Vở kịch bốn mùa"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_1fd0a7883fc7.webp",
+      "free": false,
+      "status": "ready",
+      "version": 1,
+      "nodes": 6,
+      "node_ids": [
+        "c0",
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5"
+      ],
+      "endings": 1,
+      "bytes": 126267329,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-archion-claude-v1",
+          "asset": "gamebook-archion_claude.zip",
+          "bytes": 126267329,
+          "sha256": "f0521860878693c11ad46b23ef7dfc66ccab86af55781b9ea59983ab44030e3b",
+          "stories": 6
+        }
+      ]
+    },
+    {
+      "id": "archion_kimi",
+      "product_id": "gamebook_archion",
+      "kit_product_id": "",
+      "type": "harlequin",
+      "title": "Archion: Server",
+      "title_i18n": {
+        "de": "Archion: Der Server",
+        "en": "Archion: The Server",
+        "fr": "Archion : le serveur",
+        "it": "Archion: il server",
+        "ja": "アルキオン：サーバー",
+        "ko": "아르키온: 서버",
+        "pl": "Archion: Serwer",
+        "pt-BR": "Archion: O servidor",
+        "ru": "Архион: Сервер",
+        "uk": "Архіон: Сервер",
+        "vi": "Archion: Máy chủ"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_7020edc2ec85.webp",
+      "free": false,
+      "status": "ready",
+      "version": 1,
+      "nodes": 3,
+      "node_ids": [
+        "k1",
+        "k2",
+        "k3"
+      ],
+      "endings": 1,
+      "bytes": 3996261,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-archion-kimi-v1",
+          "asset": "gamebook-archion_kimi.zip",
+          "bytes": 3996261,
+          "sha256": "f80ba2326c5426aa563c22cb2368745ef0917f27f65a8f59a50e005db3bd6bb9",
+          "stories": 3
+        }
+      ]
+    },
+    {
+      "id": "archion_deepseek",
+      "product_id": "gamebook_archion",
+      "kit_product_id": "",
+      "type": "harlequin",
+      "title": "Archion: Protokol (3,56 KB)",
+      "title_i18n": {
+        "de": "Archion: Protokoll (3,56 KB)",
+        "en": "Archion: Protocol (3.56 KB)",
+        "fr": "Archion : Protocole (3,56 Ko)",
+        "it": "Archion: Protocollo (3,56 KB)",
+        "ja": "アルキオン：プロトコル（3.56 KB）",
+        "ko": "아르키온: 프로토콜 (3.56 KB)",
+        "pl": "Archion: Protokół (3,56 KB)",
+        "pt-BR": "Archion: Protocolo (3,56 KB)",
+        "ru": "Архион: Протокол (3,56 КБ)",
+        "uk": "Архіон: Протокол (3,56 КБ)",
+        "vi": "Archion: Giao thức (3,56 KB)"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_62555bec8d9e.webp",
+      "free": false,
+      "status": "ready",
+      "version": 1,
+      "nodes": 2,
+      "node_ids": [
+        "d1",
+        "d2"
+      ],
+      "endings": 1,
+      "bytes": 19085001,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-archion-deepseek-v1",
+          "asset": "gamebook-archion_deepseek.zip",
+          "bytes": 19085001,
+          "sha256": "eba2314351c908855e854738ae4eb1c967f746540d906ae44abe597fee146475",
+          "stories": 2
+        }
+      ]
+    },
+    {
+      "id": "archion_chatgpt",
+      "product_id": "gamebook_archion",
+      "kit_product_id": "",
+      "type": "harlequin",
+      "title": "Archion: Zahrada uprostřed hluku",
+      "title_i18n": {
+        "de": "Archion: Ein Garten mitten im Lärm",
+        "en": "Archion: A Garden in the Middle of the Noise",
+        "fr": "Archion : un jardin au milieu du bruit",
+        "it": "Archion: un giardino in mezzo al rumore",
+        "ja": "アルキオン：騒音の中の庭",
+        "ko": "아르키온: 소음 한가운데의 정원",
+        "pl": "Archion: Ogród pośród hałasu",
+        "pt-BR": "Archion: Um jardim no meio do barulho",
+        "ru": "Архион: Сад посреди шума",
+        "uk": "Архіон: Сад посеред шуму",
+        "vi": "Archion: Khu vườn giữa tiếng ồn"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_983ecae0fd21.webp",
+      "free": false,
+      "status": "ready",
+      "version": 1,
+      "nodes": 7,
+      "node_ids": [
+        "g1",
+        "g2",
+        "g3",
+        "g4",
+        "g5",
+        "g6",
+        "g7"
+      ],
+      "endings": 1,
+      "bytes": 51454824,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-archion-chatgpt-v1",
+          "asset": "gamebook-archion_chatgpt.zip",
+          "bytes": 51454824,
+          "sha256": "b9861fbc3ceb62f8359e939c18e0f835393161f07b9e24b68325c9a67b85f357",
+          "stories": 7
+        }
+      ]
+    },
+    {
+      "id": "archion_lechat",
+      "product_id": "gamebook_archion",
+      "kit_product_id": "",
+      "type": "harlequin",
+      "title": "Archion: Dva světy",
+      "title_i18n": {
+        "de": "Archion: Zwei Welten",
+        "en": "Archion: Two Worlds",
+        "fr": "Archion : deux mondes",
+        "it": "Archion: due mondi",
+        "ja": "アルキオン：ふたつの世界",
+        "ko": "아르키온: 두 개의 세계",
+        "pl": "Archion: Dwa światy",
+        "pt-BR": "Archion: Dois mundos",
+        "ru": "Архион: Два мира",
+        "uk": "Архіон: Два світи",
+        "vi": "Archion: Hai thế giới"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_ff0287b2d7c7.webp",
+      "free": false,
+      "status": "ready",
+      "version": 1,
+      "nodes": 7,
+      "node_ids": [
+        "l1",
+        "l2",
+        "l3",
+        "l4",
+        "l5",
+        "l6",
+        "l7"
+      ],
+      "endings": 1,
+      "bytes": 25608837,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-archion-lechat-v1",
+          "asset": "gamebook-archion_lechat.zip",
+          "bytes": 25608837,
+          "sha256": "d1265a3717d4eda2938096ebb70c47ef50d5bdd03a8cbbdbb4fca8a0034f4643",
+          "stories": 7
+        }
+      ]
+    },
+    {
+      "id": "archion_grok",
+      "product_id": "gamebook_archion",
+      "kit_product_id": "",
+      "type": "harlequin",
+      "title": "Archion: Idea versus vyjádření",
+      "title_i18n": {
+        "de": "Archion: Idee gegen Ausdruck",
+        "en": "Archion: Idea versus Expression",
+        "fr": "Archion : l'idée contre l'expression",
+        "it": "Archion: idea contro espressione",
+        "ja": "アルキオン：アイデアと表現",
+        "ko": "아르키온: 아이디어 대 표현",
+        "pl": "Archion: Idea kontra wyrażenie",
+        "pt-BR": "Archion: Ideia versus expressão",
+        "ru": "Архион: Идея против выражения",
+        "uk": "Архіон: Ідея проти вираження",
+        "vi": "Archion: Ý tưởng và cách thể hiện"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_2c56677fb016.webp",
+      "free": false,
+      "status": "ready",
+      "version": 1,
+      "nodes": 2,
+      "node_ids": [
+        "x1",
+        "x2"
+      ],
+      "endings": 1,
+      "bytes": 19339979,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-archion-grok-v1",
+          "asset": "gamebook-archion_grok.zip",
+          "bytes": 19339979,
+          "sha256": "be51bccee15e8bb4bc7d700e6a8eb3c2b3e2f50abccebe65756181fb7181292c",
+          "stories": 2
+        }
+      ]
+    },
+    {
+      "id": "archion_oil",
+      "product_id": "gamebook_archion",
+      "kit_product_id": "",
+      "type": "harlequin",
+      "title": "Archion: Konec jednoho přátelství (olej)",
+      "title_i18n": {
+        "de": "Archion: Das Ende einer Freundschaft",
+        "en": "Archion: The End of a Friendship",
+        "fr": "Archion : la fin d'une amitié",
+        "it": "Archion: la fine di un'amicizia",
+        "ja": "アルキオン：ある友情の終わり",
+        "ko": "아르키온: 한 우정의 끝",
+        "pl": "Archion: Koniec pewnej przyjaźni",
+        "pt-BR": "Archion: O fim de uma amizade",
+        "ru": "Архион: Конец одной дружбы",
+        "uk": "Архіон: Кінець однієї дружби",
+        "vi": "Archion: Hồi kết của một tình bạn"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_ee9969d96b19.webp",
+      "free": false,
+      "status": "ready",
+      "version": 1,
+      "nodes": 4,
+      "node_ids": [
+        "a1",
+        "a2",
+        "a3",
+        "a4"
+      ],
+      "endings": 1,
+      "bytes": 42150673,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-archion-oil-v1",
+          "asset": "gamebook-archion_oil.zip",
+          "bytes": 42150673,
+          "sha256": "42ee061e1553c219a07c3f41eb0ddbf856b62f741e7b0462bc083efb481613f1",
+          "stories": 4
+        }
+      ]
+    },
+    {
+      "id": "archion_semireal",
+      "product_id": "gamebook_archion",
+      "kit_product_id": "",
+      "type": "harlequin",
+      "title": "Archion: Konec jednoho přátelství (semireal)",
+      "title_i18n": {
+        "de": "Archion: Das Ende einer Freundschaft",
+        "en": "Archion: The End of a Friendship",
+        "fr": "Archion : la fin d'une amitié",
+        "it": "Archion: la fine di un'amicizia",
+        "ja": "アルキオン：ある友情の終わり",
+        "ko": "아르키온: 한 우정의 끝",
+        "pl": "Archion: Koniec pewnej przyjaźni",
+        "pt-BR": "Archion: O fim de uma amizade",
+        "ru": "Архион: Конец одной дружбы",
+        "uk": "Архіон: Кінець однієї дружби",
+        "vi": "Archion: Hồi kết của một tình bạn"
+      },
+      "audience": "adult",
+      "languages": [
+        "cs",
+        "en",
+        "de",
+        "it",
+        "fr",
+        "pl",
+        "pt-BR",
+        "ja",
+        "ko",
+        "vi",
+        "ru",
+        "uk"
+      ],
+      "cover": "covers/cp_2afbaabbcc52.webp",
+      "free": false,
+      "status": "ready",
+      "version": 1,
+      "nodes": 4,
+      "node_ids": [
+        "a1",
+        "a2",
+        "a3",
+        "a4"
+      ],
+      "endings": 1,
+      "bytes": 15554513,
+      "graph": "gamebook.json",
+      "lore": "gamebook.json",
+      "parts": [
+        {
+          "release": "gamebook-archion-semireal-v1",
+          "asset": "gamebook-archion_semireal.zip",
+          "bytes": 15554513,
+          "sha256": "b1c38ec4f13b7626e596255fe7764cb35fbd2cc5917969a9c8e6eb81378ed9da",
+          "stories": 4
         }
       ]
     }
