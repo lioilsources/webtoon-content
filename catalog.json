@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 49,
-  "generated_at": "2026-11-15T06:06:42Z",
+  "version": 63,
+  "generated_at": "2026-11-15T06:11:19Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -769,7 +769,7 @@
       "cover": "covers/cp_4b8a89a0ab42.webp",
       "free": false,
       "status": "ready",
-      "version": 2,
+      "version": 3,
       "nodes": 5,
       "node_ids": [
         "s1",
@@ -779,15 +779,15 @@
         "s5"
       ],
       "endings": 1,
-      "bytes": 11736967,
+      "bytes": 11737003,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-poslednislovo-v2",
+          "release": "gamebook-poslednislovo-v3",
           "asset": "gamebook-poslednislovo.zip",
-          "bytes": 11736967,
-          "sha256": "64b5edc9705b82273a46e1c1f4724d7c001c2c3510b0462f22f44454c9816d3e",
+          "bytes": 11737003,
+          "sha256": "7564d5fbb580dcb5aa83de17669e3e94d5709319dfc16a507a288da46f6e7edb",
           "stories": 5
         }
       ]
@@ -829,21 +829,21 @@
       "cover": "covers/cp_b6dd674398f7.webp",
       "free": false,
       "status": "ready",
-      "version": 2,
+      "version": 3,
       "nodes": 1,
       "node_ids": [
         "s1"
       ],
       "endings": 1,
-      "bytes": 7008225,
+      "bytes": 7008263,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-gulasspagety-v2",
+          "release": "gamebook-gulasspagety-v3",
           "asset": "gamebook-gulasspagety.zip",
-          "bytes": 7008225,
-          "sha256": "0da7182f09c1d2c6181c924c399bb61e123d387ecf4faf0bc4b844ad92f55e23",
+          "bytes": 7008263,
+          "sha256": "219aa91a44141cf5b4e2f9d2229240115a8d6fa4785f5649ec21de7e74b250c7",
           "stories": 1
         }
       ]
@@ -885,7 +885,7 @@
       "cover": "covers/cp_f8f707bc4f54.webp",
       "free": false,
       "status": "ready",
-      "version": 2,
+      "version": 3,
       "nodes": 5,
       "node_ids": [
         "s1",
@@ -895,15 +895,15 @@
         "s5"
       ],
       "endings": 1,
-      "bytes": 14018965,
+      "bytes": 14018997,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-poslednislovopavilon-v2",
+          "release": "gamebook-poslednislovopavilon-v3",
           "asset": "gamebook-poslednislovopavilon.zip",
-          "bytes": 14018965,
-          "sha256": "10f8fc9dc46b519a03c2093b110b4c39806ddfdd40514e2d362f84d1a0534d0c",
+          "bytes": 14018997,
+          "sha256": "c5efd66707c4ef8f9fad4efe2c4ed4bdaed9564dc3e22bc9a1c524de4a0fca29",
           "stories": 5
         }
       ]
@@ -945,7 +945,7 @@
       "cover": "covers/cp_bfa2c0e732c1.webp",
       "free": false,
       "status": "ready",
-      "version": 2,
+      "version": 3,
       "nodes": 3,
       "node_ids": [
         "s1",
@@ -953,15 +953,15 @@
         "s3"
       ],
       "endings": 1,
-      "bytes": 13883908,
+      "bytes": 13883942,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-uknedliku-v2",
+          "release": "gamebook-uknedliku-v3",
           "asset": "gamebook-uknedliku.zip",
-          "bytes": 13883908,
-          "sha256": "71ec8426684a9797164588acef6033b383c2e9d382193d82a975f4ce03ee78e3",
+          "bytes": 13883942,
+          "sha256": "2e7a1338b99ea640b6098302e4cc5d3c67ebdfb48214909d91add22895acc92b",
           "stories": 3
         }
       ]
@@ -1003,7 +1003,7 @@
       "cover": "covers/cp_fcd8fa6cf903.webp",
       "free": false,
       "status": "ready",
-      "version": 2,
+      "version": 3,
       "nodes": 6,
       "node_ids": [
         "o1",
@@ -1014,15 +1014,15 @@
         "o6"
       ],
       "endings": 1,
-      "bytes": 30001339,
+      "bytes": 30001374,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-gulasknedlik-v2",
+          "release": "gamebook-gulasknedlik-v3",
           "asset": "gamebook-gulasknedlik.zip",
-          "bytes": 30001339,
-          "sha256": "62952dd9790991611cee5904fad1e41574d2ce3d61b41a6b2b96e01a78c65d02",
+          "bytes": 30001374,
+          "sha256": "c4e74e13ebdee05e497c24123a379bd142ef02814785b73a9db0951aa61f7484",
           "stories": 6
         }
       ]
@@ -1064,7 +1064,7 @@
       "cover": "covers/cp_2a33abd4b906.webp",
       "free": false,
       "status": "ready",
-      "version": 2,
+      "version": 3,
       "nodes": 3,
       "node_ids": [
         "k1",
@@ -1072,15 +1072,15 @@
         "k3"
       ],
       "endings": 1,
-      "bytes": 7000484,
+      "bytes": 7000517,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-knedlikvzakopu-v2",
+          "release": "gamebook-knedlikvzakopu-v3",
           "asset": "gamebook-knedlikvzakopu.zip",
-          "bytes": 7000484,
-          "sha256": "569c454fa5e5beff81753d31d863c7fa6a687d9bca4960d5bf20fb5cca958c27",
+          "bytes": 7000517,
+          "sha256": "4c828081435167753404a11b6d54ca5dbd2ee702d0a13a7622fe15c1ca0f7d0a",
           "stories": 3
         }
       ]
@@ -1092,8 +1092,8 @@
       "type": "harlequin",
       "title": "Archion: Hra o čtyřech ročních obdobích (Claude)",
       "title_i18n": {
-        "en": "Archion: A Play in Four Seasons (Claude)",
         "de": "Archion: Ein Spiel in vier Jahreszeiten (Claude)",
+        "en": "Archion: A Play in Four Seasons (Claude)",
         "fr": "Archion : une pièce en quatre saisons (Claude)",
         "it": "Archion: un dramma in quattro stagioni (Claude)",
         "ja": "アルキオン：四季の戯曲（Claude）",
@@ -1122,7 +1122,7 @@
       "cover": "covers/cp_1fd0a7883fc7.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 6,
       "node_ids": [
         "c0",
@@ -1133,15 +1133,15 @@
         "c5"
       ],
       "endings": 1,
-      "bytes": 126267329,
+      "bytes": 126267355,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-archion-claude-v1",
+          "release": "gamebook-archion-claude-v2",
           "asset": "gamebook-archion_claude.zip",
-          "bytes": 126267329,
-          "sha256": "f0521860878693c11ad46b23ef7dfc66ccab86af55781b9ea59983ab44030e3b",
+          "bytes": 126267355,
+          "sha256": "e177767a3630ffce9b920999a04ed6ed3ae0852de8df552684abfe6bbed71ba2",
           "stories": 6
         }
       ]
@@ -1153,8 +1153,8 @@
       "type": "harlequin",
       "title": "Archion: Server (Kimi)",
       "title_i18n": {
-        "en": "Archion: The Server (Kimi)",
         "de": "Archion: Der Server (Kimi)",
+        "en": "Archion: The Server (Kimi)",
         "fr": "Archion : le serveur (Kimi)",
         "it": "Archion: il server (Kimi)",
         "ja": "アルキオン：サーバー（Kimi）",
@@ -1183,7 +1183,7 @@
       "cover": "covers/cp_7020edc2ec85.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 3,
       "node_ids": [
         "k1",
@@ -1191,15 +1191,15 @@
         "k3"
       ],
       "endings": 1,
-      "bytes": 3996261,
+      "bytes": 3996297,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-archion-kimi-v1",
+          "release": "gamebook-archion-kimi-v2",
           "asset": "gamebook-archion_kimi.zip",
-          "bytes": 3996261,
-          "sha256": "f80ba2326c5426aa563c22cb2368745ef0917f27f65a8f59a50e005db3bd6bb9",
+          "bytes": 3996297,
+          "sha256": "ec20d2bd6de5d85d51dc927a043f16c2c8c76ec4985eaaeef80dd1968d6dc297",
           "stories": 3
         }
       ]
@@ -1211,8 +1211,8 @@
       "type": "harlequin",
       "title": "Archion: Protokol (DeepSeek)",
       "title_i18n": {
-        "en": "Archion: Protocol (DeepSeek)",
         "de": "Archion: Protokoll (DeepSeek)",
+        "en": "Archion: Protocol (DeepSeek)",
         "fr": "Archion : Protocole (DeepSeek)",
         "it": "Archion: Protocollo (DeepSeek)",
         "ja": "アルキオン：プロトコル（DeepSeek）",
@@ -1241,7 +1241,7 @@
       "cover": "covers/cp_62555bec8d9e.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 2,
       "node_ids": [
         "d1",
@@ -1253,10 +1253,10 @@
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-archion-deepseek-v1",
+          "release": "gamebook-archion-deepseek-v2",
           "asset": "gamebook-archion_deepseek.zip",
           "bytes": 19085001,
-          "sha256": "eba2314351c908855e854738ae4eb1c967f746540d906ae44abe597fee146475",
+          "sha256": "9c13754ec8c056401f6853f82d597bc6129076d4cf0aee20d45fa38a6b669299",
           "stories": 2
         }
       ]
@@ -1268,8 +1268,8 @@
       "type": "harlequin",
       "title": "Archion: Zahrada uprostřed hluku (ChatGPT)",
       "title_i18n": {
-        "en": "Archion: A Garden in the Middle of the Noise (ChatGPT)",
         "de": "Archion: Ein Garten mitten im Lärm (ChatGPT)",
+        "en": "Archion: A Garden in the Middle of the Noise (ChatGPT)",
         "fr": "Archion : un jardin au milieu du bruit (ChatGPT)",
         "it": "Archion: un giardino in mezzo al rumore (ChatGPT)",
         "ja": "アルキオン：騒音の中の庭（ChatGPT）",
@@ -1298,7 +1298,7 @@
       "cover": "covers/cp_983ecae0fd21.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 7,
       "node_ids": [
         "g1",
@@ -1310,15 +1310,15 @@
         "g7"
       ],
       "endings": 1,
-      "bytes": 51454824,
+      "bytes": 51454865,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-archion-chatgpt-v1",
+          "release": "gamebook-archion-chatgpt-v2",
           "asset": "gamebook-archion_chatgpt.zip",
-          "bytes": 51454824,
-          "sha256": "b9861fbc3ceb62f8359e939c18e0f835393161f07b9e24b68325c9a67b85f357",
+          "bytes": 51454865,
+          "sha256": "231614cc3a4a67df611f10fb15d634d9e1e2f945745728c589b11c11894c1374",
           "stories": 7
         }
       ]
@@ -1330,8 +1330,8 @@
       "type": "harlequin",
       "title": "Archion: Dva světy (Le Chat)",
       "title_i18n": {
-        "en": "Archion: Two Worlds (Le Chat)",
         "de": "Archion: Zwei Welten (Le Chat)",
+        "en": "Archion: Two Worlds (Le Chat)",
         "fr": "Archion : deux mondes (Le Chat)",
         "it": "Archion: due mondi (Le Chat)",
         "ja": "アルキオン：ふたつの世界（Le Chat）",
@@ -1360,7 +1360,7 @@
       "cover": "covers/cp_ff0287b2d7c7.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 7,
       "node_ids": [
         "l1",
@@ -1372,15 +1372,15 @@
         "l7"
       ],
       "endings": 1,
-      "bytes": 25608837,
+      "bytes": 25608871,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-archion-lechat-v1",
+          "release": "gamebook-archion-lechat-v2",
           "asset": "gamebook-archion_lechat.zip",
-          "bytes": 25608837,
-          "sha256": "d1265a3717d4eda2938096ebb70c47ef50d5bdd03a8cbbdbb4fca8a0034f4643",
+          "bytes": 25608871,
+          "sha256": "07a4f94cbb82c368a900841ca216000be9fec0e7c6fb3126cf4289ec782bcad8",
           "stories": 7
         }
       ]
@@ -1392,8 +1392,8 @@
       "type": "harlequin",
       "title": "Archion: Idea versus vyjádření (Grok)",
       "title_i18n": {
-        "en": "Archion: Idea versus Expression (Grok)",
         "de": "Archion: Idee gegen Ausdruck (Grok)",
+        "en": "Archion: Idea versus Expression (Grok)",
         "fr": "Archion : l'idée contre l'expression (Grok)",
         "it": "Archion: idea contro espressione (Grok)",
         "ja": "アルキオン：アイデアと表現（Grok）",
@@ -1422,22 +1422,22 @@
       "cover": "covers/cp_2c56677fb016.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 2,
       "node_ids": [
         "x1",
         "x2"
       ],
       "endings": 1,
-      "bytes": 19339979,
+      "bytes": 19340012,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-archion-grok-v1",
+          "release": "gamebook-archion-grok-v2",
           "asset": "gamebook-archion_grok.zip",
-          "bytes": 19339979,
-          "sha256": "be51bccee15e8bb4bc7d700e6a8eb3c2b3e2f50abccebe65756181fb7181292c",
+          "bytes": 19340012,
+          "sha256": "f875297e3bb0727f2961af3ccbe50b59f5e95a853294024cfa7b2db3dc4ae7b7",
           "stories": 2
         }
       ]
@@ -1479,7 +1479,7 @@
       "cover": "covers/cp_ee9969d96b19.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 4,
       "node_ids": [
         "a1",
@@ -1488,15 +1488,15 @@
         "a4"
       ],
       "endings": 1,
-      "bytes": 42150673,
+      "bytes": 42150781,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-archion-oil-v1",
+          "release": "gamebook-archion-oil-v2",
           "asset": "gamebook-archion_oil.zip",
-          "bytes": 42150673,
-          "sha256": "42ee061e1553c219a07c3f41eb0ddbf856b62f741e7b0462bc083efb481613f1",
+          "bytes": 42150781,
+          "sha256": "9fd1e4dab25fe4a4ad818227e0871b7d3b942b9304c790729932df80bc0b384c",
           "stories": 4
         }
       ]
@@ -1538,7 +1538,7 @@
       "cover": "covers/cp_2afbaabbcc52.webp",
       "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 4,
       "node_ids": [
         "a1",
@@ -1547,15 +1547,15 @@
         "a4"
       ],
       "endings": 1,
-      "bytes": 15554513,
+      "bytes": 15554559,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-archion-semireal-v1",
+          "release": "gamebook-archion-semireal-v2",
           "asset": "gamebook-archion_semireal.zip",
-          "bytes": 15554513,
-          "sha256": "b1c38ec4f13b7626e596255fe7764cb35fbd2cc5917969a9c8e6eb81378ed9da",
+          "bytes": 15554559,
+          "sha256": "0546936e46415ed093a312dbd4064aa9daa0fa9cc8f25cb1e88cc69516a59bfe",
           "stories": 4
         }
       ]
