@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 64,
-  "generated_at": "2026-11-15T07:29:16Z",
+  "version": 66,
+  "generated_at": "2026-11-15T07:31:27Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -625,19 +625,19 @@
       "product_id": "gamebook_gulasspagety",
       "kit_product_id": "",
       "type": "drama",
-      "title": "Kulový blesk v neonovém zákopu (Gemini)",
+      "title": "Kulový blesk v neonovém zákopu (Gemini, noir)",
       "title_i18n": {
-        "de": "Kugelblitz im Neonschützengraben (Gemini)",
-        "en": "Ball Lightning in the Neon Trench (Gemini)",
-        "fr": "Foudre en boule dans la tranchée au néon (Gemini)",
-        "it": "Fulmine globulare nella trincea al neon (Gemini)",
-        "ja": "ネオンの塹壕に球電（Gemini）",
-        "ko": "네온 참호 속의 구전 (Gemini)",
-        "pl": "Piorun kulisty w neonowym okopie (Gemini)",
-        "pt-BR": "Raio globular na trincheira de neon (Gemini)",
-        "ru": "Шаровая молния в неоновом окопе (Gemini)",
-        "uk": "Кульова блискавка в неоновому окопі (Gemini)",
-        "vi": "Sét hòn trong chiến hào neon (Gemini)"
+        "de": "Kugelblitz im Neonschützengraben (Gemini, noir)",
+        "en": "Ball Lightning in the Neon Trench (Gemini, noir)",
+        "fr": "Foudre en boule dans la tranchée au néon (Gemini, noir)",
+        "it": "Fulmine globulare nella trincea al neon (Gemini, noir)",
+        "ja": "ネオンの塹壕に球電（Gemini、ノワール）",
+        "ko": "네온 참호 속의 구전 (Gemini, 누아르)",
+        "pl": "Piorun kulisty w neonowym okopie (Gemini, noir)",
+        "pt-BR": "Raio globular na trincheira de neon (Gemini, noir)",
+        "ru": "Шаровая молния в неоновом окопе (Gemini, нуар)",
+        "uk": "Кульова блискавка в неоновому окопі (Gemini, нуар)",
+        "vi": "Sét hòn trong chiến hào neon (Gemini, noir)"
       },
       "audience": "adult",
       "languages": [
@@ -657,43 +657,43 @@
       "cover": "covers/cp_6f4a5631c06c.webp",
       "free": false,
       "status": "ready",
-      "version": 2,
+      "version": 3,
       "nodes": 1,
       "node_ids": [
         "s1"
       ],
       "endings": 1,
-      "bytes": 8515713,
+      "bytes": 8515765,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-kulovyblesk-v2",
+          "release": "gamebook-kulovyblesk-v3",
           "asset": "gamebook-kulovyblesk.zip",
-          "bytes": 8515713,
-          "sha256": "4f2d5c7d25df3c2d236da1591fa3c7725d1d13f16245e7932b99b6f787faf180",
+          "bytes": 8515765,
+          "sha256": "ec1a8410aba52e3080d02d012af1146230cbf14ac44b2a3e36eaadfb83580955",
           "stories": 1
         }
       ]
     },
     {
       "id": "kulovyblesktus",
-      "product_id": "",
+      "product_id": "gamebook_gulasspagety",
       "kit_product_id": "",
       "type": "drama",
-      "title": "Kulový blesk v neonovém zákopu (tuš)",
+      "title": "Kulový blesk v neonovém zákopu (Gemini, tuš)",
       "title_i18n": {
-        "de": "Kugelblitz im Neonschützengraben (Tusche)",
-        "en": "Ball Lightning in the Neon Trench (ink)",
-        "fr": "Foudre en boule dans la tranchée au néon (encre)",
-        "it": "Fulmine globulare nella trincea al neon (inchiostro)",
-        "ja": "ネオンの塹壕に球電（墨）",
-        "ko": "네온 참호 속의 구전 (수묵)",
-        "pl": "Piorun kulisty w neonowym okopie (tusz)",
-        "pt-BR": "Raio globular na trincheira de neon (nanquim)",
-        "ru": "Шаровая молния в неоновом окопе (тушь)",
-        "uk": "Кульова блискавка в неоновому окопі (туш)",
-        "vi": "Sét hòn trong chiến hào neon (mực tàu)"
+        "de": "Kugelblitz im Neonschützengraben (Gemini, Tusche)",
+        "en": "Ball Lightning in the Neon Trench (Gemini, ink)",
+        "fr": "Foudre en boule dans la tranchée au néon (Gemini, encre)",
+        "it": "Fulmine globulare nella trincea al neon (Gemini, inchiostro)",
+        "ja": "ネオンの塹壕に球電（Gemini、墨）",
+        "ko": "네온 참호 속의 구전 (Gemini, 수묵)",
+        "pl": "Piorun kulisty w neonowym okopie (Gemini, tusz)",
+        "pt-BR": "Raio globular na trincheira de neon (Gemini, nanquim)",
+        "ru": "Шаровая молния в неоновом окопе (Gemini, тушь)",
+        "uk": "Кульова блискавка в неоновому окопі (Gemini, туш)",
+        "vi": "Sét hòn trong chiến hào neon (Gemini, mực tàu)"
       },
       "audience": "adult",
       "languages": [
@@ -711,23 +711,23 @@
         "uk"
       ],
       "cover": "covers/cp_21279b5b7b1f.webp",
-      "free": true,
+      "free": false,
       "status": "ready",
-      "version": 1,
+      "version": 2,
       "nodes": 1,
       "node_ids": [
         "s1"
       ],
       "endings": 1,
-      "bytes": 6791818,
+      "bytes": 6791842,
       "graph": "gamebook.json",
       "lore": "gamebook.json",
       "parts": [
         {
-          "release": "gamebook-kulovyblesktus-v1",
+          "release": "gamebook-kulovyblesktus-v2",
           "asset": "gamebook-kulovyblesktus.zip",
-          "bytes": 6791818,
-          "sha256": "b0650a95bf67364ac62a063e7d7233a34096b34f805a94da7bf9402a82a1a71c",
+          "bytes": 6791842,
+          "sha256": "695e1c2c060e6517a08c0dd272955bbea29f4b015969d54099403eb995c4e88b",
           "stories": 1
         }
       ]
