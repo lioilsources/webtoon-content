@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 66,
-  "generated_at": "2026-11-15T07:31:27Z",
+  "version": 67,
+  "generated_at": "2026-11-22T17:44:03Z",
   "base_urls": {
     "pages": "https://lioilsources.github.io/webtoon-content/",
     "releases": "https://github.com/lioilsources/webtoon-content/releases/download/",
@@ -622,7 +622,7 @@
     },
     {
       "id": "kulovyblesk",
-      "product_id": "gamebook_gulasspagety",
+      "product_id": "",
       "kit_product_id": "",
       "type": "drama",
       "title": "Kulový blesk v neonovém zákopu (Gemini, noir)",
@@ -655,7 +655,7 @@
         "uk"
       ],
       "cover": "covers/cp_6f4a5631c06c.webp",
-      "free": false,
+      "free": true,
       "status": "ready",
       "version": 3,
       "nodes": 1,
@@ -678,7 +678,7 @@
     },
     {
       "id": "kulovyblesktus",
-      "product_id": "gamebook_gulasspagety",
+      "product_id": "",
       "kit_product_id": "",
       "type": "drama",
       "title": "Kulový blesk v neonovém zákopu (Gemini, tuš)",
@@ -711,7 +711,7 @@
         "uk"
       ],
       "cover": "covers/cp_21279b5b7b1f.webp",
-      "free": false,
+      "free": true,
       "status": "ready",
       "version": 2,
       "nodes": 1,
